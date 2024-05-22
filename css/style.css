@@ -1,0 +1,151 @@
+html, body{
+    max-width: 100%;
+    overflow-X: hidden
+}
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+:root {
+    --primary: #fd1616;
+    --secondary: #FE8800;
+    --light: #F5F5F5;
+    --dark: #14141F;
+}
+
+.hero-image{
+    width: 60%;
+    background-size: cover;
+    justify-content: center;
+    overflow: hidden;
+    display: block;
+    margin: auto;
+}
+
+input {
+    margin-bottom: 30px;
+    text-align: left;
+    width: 70%;
+    padding: 10px;
+    font-size: 15px;
+}
+
+button {
+    border: none;
+    width: 200px;
+    padding: 10px;
+    background-color:#1351a3;
+    font-weight: bold;
+    color: #FFFF;
+    border-radius: 0px;
+    transition-duration: 0.4s;
+}
+
+.button:hover {
+    background-color: #25E746;
+    color: #FFF;
+}
+
+.tea{
+    height: 300%;
+    display: flex;
+    width: auto;
+    overflow: hidden;
+    float: left;
+}
+
+.money{
+    height: 300%;
+    display: flex;
+    width: auto;
+    overflow: hidden;
+}
+
+.knife{
+    height: 300%;
+    display: flex;
+    width: auto;
+    overflow: hidden;
+}
+
+.task-tab{
+    height: 220px;
+    display: flex;
+    width: auto;
+    overflow: hidden;
+}
+
+.task{
+    height: 300px;
+    display: flex;
+    width: auto;
+    overflow: hidden;
+}
+
+.apple {
+    height: 50px;
+}
+
+.google-play-store{
+    height: 50px;
+}
+
+.tara {
+    height: 300px;
+    display: flex;
+    width: auto;
+    overflow: hidden;
+}
+
+.kate{
+    height: 300px;
+    display: flex;
+    width: auto;
+    overflow: hidden;
+}
+
+.card-container{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 100px;
+}
+
+.card{
+    width: 325px;
+    background-color: #584F4F;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0px 2px 4px rgba(0,0,0,0.2);
+    margin: 20px;
+}
+
+.card-content{
+    padding: 16px;
+}
+
+.card-content h5{
+    font-size: 28px;
+    margin-bottom: 8px;
+}
+
+.card-content p{
+    font-size: 15px;
+    color: #666
+}
+
+.h3{
+    size: 50px;
+}
+
+.back-to-top {
+    position: fixed;
+    display: none;
+    right: 45px;
+    bottom: 45px;
+    z-index: 99;
+}
