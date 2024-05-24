@@ -80,7 +80,7 @@ button {
 }
 
 .task{
-    height: 200px;
+    height: 100px;
     display: flex;
     width: auto;
     overflow: hidden;
