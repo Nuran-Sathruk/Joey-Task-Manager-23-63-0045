@@ -22,7 +22,7 @@ html, body{
     justify-content: center;
     overflow: hidden;
     display: block;
-    margin: auto;
+    margin: 40px;
 }
 
 input {
