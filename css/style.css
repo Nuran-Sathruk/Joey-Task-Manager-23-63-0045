@@ -18,8 +18,7 @@ html, body{
 }
 
 .hero-image{
-    width: 60%;
-    background-size: cover;
+    width: 40%;
     justify-content: center;
     overflow: hidden;
     display: block;
