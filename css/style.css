@@ -156,6 +156,10 @@ p {
     margin-bottom: 20px;
 }
 
+.navbar-brand{
+    size:50px;
+}
+
 .back-to-top {
     position: fixed;
     display: none;
