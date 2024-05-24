@@ -138,12 +138,12 @@ button {
     color: #666
 }
 
-.h3{
+.h3 {
     size: 50px;
 }
 
 .container {
-    max-width: 200px;
+    max-width: 100px;
     margin: 0 auto;
     padding: 20px;
 }
