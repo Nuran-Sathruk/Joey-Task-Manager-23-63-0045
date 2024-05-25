@@ -18,7 +18,7 @@ html, body{
 }
 
 .hero-image{
-    width: 70%;
+    width: 60%;
     justify-content: center;
     overflow: hidden;
     display: block;
@@ -79,7 +79,7 @@ button {
 }
 
 .task{
-    height: 100px;
+    height: 220px;
     display: flex;
     width: auto;
     overflow: hidden;
