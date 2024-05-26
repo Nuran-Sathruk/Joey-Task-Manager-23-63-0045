@@ -115,7 +115,7 @@ button {
 }
 
 .card{
-    width: 325px;
+    width: 125px;
     background-color: #584F4F;
     border-radius: 8px;
     overflow: hidden;
@@ -142,7 +142,7 @@ button {
 }
 
 .container {
-    max-width: 100px;
+    max-width: 200px;
     margin: 0 auto;
     padding: 20px;
 }
