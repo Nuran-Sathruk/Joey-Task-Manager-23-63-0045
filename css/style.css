@@ -19,11 +19,11 @@ html, body {
 
 .hero-image {
     width: 50%;
+    height: 100%;
     justify-content: center;
     overflow: hidden;
     display: block;
     margin: auto;
-    object-fit: cover;
 }
 
 input {
@@ -51,25 +51,24 @@ button {
 }
 
 .tea {
-    height: 300%;
-    display: flex;
-    width: auto;
-    overflow: hidden;
-    float: left;
+   height: 300%;
+   overflow: hidden;
+   display: flex;
+   width: auto;
 }
 
 .money {
-    height: 300%;
-    overflow: hidden;
-    display: flex;
-    width: auto;
+   height: 300%;
+   overflow: hidden;
+   display: flex;
+   width: auto;
 }
 
 .knife {
-    height: 300%;
-    overflow: hidden;
-    display: flex;
-    width: auto;
+   height: 300%;
+   overflow: hidden;
+   display: flex;
+   width: auto;
 }
 
 .task-tab {
