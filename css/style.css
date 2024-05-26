@@ -1,6 +1,6 @@
 html, body {
     max-width: 100%;
-    overflow-X: hidden
+    overflow-X: hidden;
 }
 
 * {
@@ -46,6 +46,7 @@ button {
 }
 
 .button:hover {
+    transform: scale(1.02);
     background-color: #25E746;
     color: #FFF;
 }
