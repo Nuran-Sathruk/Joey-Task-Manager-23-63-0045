@@ -137,6 +137,11 @@ button {
     font-size: 15px;
 }
 
+.card-img {
+    width: 100%;
+    height: auto;
+}
+
 .h3 {
     size: 50px;
 }
