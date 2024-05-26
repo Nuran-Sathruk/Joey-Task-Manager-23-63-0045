@@ -24,6 +24,8 @@ html, body {
     overflow: hidden;
     display: block;
     margin: auto;
+    float: left;
+    padding: 5px;
 }
 
 input {
