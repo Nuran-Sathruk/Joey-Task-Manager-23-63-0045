@@ -111,7 +111,7 @@ button {
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
-    margin-top: 100px;
+    margin-top: 80px;
 }
 
 .card{
@@ -142,7 +142,7 @@ button {
 }
 
 .container {
-    max-width: 80px;
+    max-width: 100px;
     margin: 0 auto;
     padding: 20px;
 }
