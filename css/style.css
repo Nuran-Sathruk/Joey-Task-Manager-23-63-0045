@@ -18,7 +18,7 @@ html, body {
 }
 
 .hero-image {
-    width: 60%;
+    width: 50%;
     justify-content: center;
     overflow: hidden;
     display: block;
@@ -59,16 +59,16 @@ button {
 
 .money {
     height: 300%;
+    overflow: hidden;
     display: flex;
     width: auto;
-    overflow: hidden;
 }
 
 .knife {
     height: 300%;
+    overflow: hidden;
     display: flex;
     width: auto;
-    overflow: hidden;
 }
 
 .task-tab {
@@ -157,7 +157,7 @@ p {
 
 .navbar-brand {
     font-family: sans-serif;
-    text-align: center;
+    text-align: left;
     overflow: hidden;
 }
 
