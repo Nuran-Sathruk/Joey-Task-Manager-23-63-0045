@@ -115,7 +115,7 @@ button {
 }
 
 .card{
-    width: 125px;
+    width: 325px;
     background-color: #584F4F;
     border-radius: 8px;
     overflow: hidden;
@@ -157,6 +157,8 @@ p {
 
 .navbar-brand {
     font-family: sans-serif;
+    text-align: center;
+    overflow: hidden;
 }
 
 .back-to-top {
