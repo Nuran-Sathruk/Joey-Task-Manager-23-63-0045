@@ -73,16 +73,16 @@ button {
 
 .task-tab {
     height: 220px;
+    overflow: hidden;
     display: flex;
     width: auto;
-    overflow: hidden;
 }
 
 .task {
-    height: 210px;
+    height: 220px;
+    overflow: hidden;
     display: flex;
     width: auto;
-    overflow: hidden;
 }
 
 .apple {
