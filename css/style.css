@@ -18,14 +18,12 @@ html, body {
 }
 
 .hero-image {
-    width: 50%;
-    height: 100%;
+    width: 60%;
+    height: 70%;
     justify-content: center;
     overflow: hidden;
     display: block;
     margin: auto;
-    float: left;
-    padding: 5px;
 }
 
 input {
