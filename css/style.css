@@ -23,6 +23,7 @@ html, body {
     overflow: hidden;
     display: block;
     margin: auto;
+    object-fit: cover;
 }
 
 input {
