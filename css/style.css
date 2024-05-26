@@ -1,9 +1,9 @@
-html, body{
+html, body {
     max-width: 100%;
     overflow-X: hidden
 }
 
-*{
+* {
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
@@ -17,7 +17,7 @@ html, body{
     --dark: #14141F;
 }
 
-.hero-image{
+.hero-image {
     width: 60%;
     justify-content: center;
     overflow: hidden;
@@ -49,7 +49,7 @@ button {
     color: #FFF;
 }
 
-.tea{
+.tea {
     height: 300%;
     display: flex;
     width: auto;
@@ -57,29 +57,29 @@ button {
     float: left;
 }
 
-.money{
+.money {
     height: 300%;
     display: flex;
     width: auto;
     overflow: hidden;
 }
 
-.knife{
+.knife {
     height: 300%;
     display: flex;
     width: auto;
     overflow: hidden;
 }
 
-.task-tab{
+.task-tab {
     height: 220px;
     display: flex;
     width: auto;
     overflow: hidden;
 }
 
-.task{
-    height: 220px;
+.task {
+    height: 210px;
     display: flex;
     width: auto;
     overflow: hidden;
@@ -89,7 +89,7 @@ button {
     height: 50px;
 }
 
-.google-play-store{
+.google-play-store {
     height: 50px;
 }
 
